@@ -1,0 +1,19 @@
+h1 {
+    font-family: Work Sans;
+}
+
+div h1 {
+    color: #151414;
+    text-align: right;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+div{
+    flex-shrink: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("C:\my_Git\Web Development\New_Year_New_Me\images\banner");
+}
